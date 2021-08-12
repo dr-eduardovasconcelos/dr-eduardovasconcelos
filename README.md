@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dr-eduardovasconcelos
 - 👀 I’m interested in Statistical and Stochastical programs
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on data analysis, system analysis, analytical model, stochastic processes
 - 📫 How to reach me: eduardo.vasconcelos@recife.ifpe.edu.br
 
